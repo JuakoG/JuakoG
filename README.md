@@ -1,5 +1,7 @@
 ## Hola Soy Joaquin Gonzalez👋
-
+<p align="left">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Bienvenidos+a+mi+Perfil+de+Github!&color=800080&width=360&height=30">
+</p>
 # :cat: Sobre Mi :
 Soy Administrador Gastronómico Internacional, actualmente en proceso de reconversión al mundo de la tecnología.
 
@@ -52,6 +54,10 @@ Here are some ideas to get you started:
 ![JuakoG's Stats](https://github-readme-stats.vercel.app/api?username=JuakoG&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
 ![JuakoG's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuakoG&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
 </div>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://img.shields.io/badge/Visitors-0000--today-800080?style=flat-square&logo=github" />
+</p>
 
 
 
