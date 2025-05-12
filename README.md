@@ -1,16 +1,25 @@
-## Hola Soy Joaquin Gonzalez👋
+<h1 align="center" style="border-bottom: none; margin: 0;">Hola! Soy Joaquín González  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 <p align="left">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Bienvenidos+a+mi+Perfil+de+Github!&color=800080&width=360&height=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Bienvenidos+a+mi+Perfil+de+Github!&color=800080&width=360&height=30">
 </p>
-# :cat: Sobre Mi :
-Soy Administrador Gastronómico Internacional, actualmente en proceso de reconversión al mundo de la tecnología.
+<h2 align="center" style="margin-top: 0; border-bottom: none;">
+    Sobre mí
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+    </a>
+</h2>
 
-🎓 Estudié dos años Ingeniería en la USS, y aunque no terminé, ahí nació mi interés por el área digital.  
-💻 Hoy estoy cursando el bootcamp Fullstack JavaScript en Generation Chile, donde aprendo desarrollo web tanto frontend como backend.
+
+🎓 Soy Administrador Gastronómico Internacional, actualmente en proceso de reconversión al mundo de la tecnología.  
+
+💡 Estudié dos años Ingeniería en la USS, donde nació mi interés por el área digital.  
+
+🚀 Hoy curso el bootcamp Fullstack JavaScript en Generation Chile, aprendiendo desarrollo web tanto frontend como backend.  
 
 🔍 Me interesa entender cómo funcionan las cosas, mejorar mis habilidades técnicas y aportar en proyectos reales.  
-🤝 Estoy abierto a colaborar, seguir aprendiendo y crecer profesionalmente en el mundo del desarrollo web.
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+🤝 Estoy abierto a colaborar, seguir aprendiendo y crecer profesionalmente en el mundo del desarrollo web.  
+
 
 <!--
 **JuakoG/JuakoG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -54,11 +63,10 @@ Here are some ideas to get you started:
 ![JuakoG's Stats](https://github-readme-stats.vercel.app/api?username=JuakoG&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
 ![JuakoG's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuakoG&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
 </div>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://img.shields.io/badge/Visitors-0000--today-800080?style=flat-square&logo=github" />
+<p align="center" style="background-color: #800080; padding: 10px; border-radius: 10px;">
+ 👁️ Contador de visitas <br>
+  <img src="https://profile-counter.glitch.me/JuakoG/count.svg" />
 </p>
-
 
 
 <!-- Connect with me -->
