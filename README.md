@@ -14,7 +14,7 @@
 
 💡 Estudié dos años Ingeniería en la USS, donde nació mi interés por el área digital.  
 
-🚀 Hoy curso el bootcamp Fullstack JavaScript en Generation Chile, aprendiendo desarrollo web tanto frontend como backend.  
+🚀Hoy estudio la carrera de analista programador computacion en DuocUC y realice el curso de Generation Chile sobre JavaScript.  
 
 🔍 Me interesa entender cómo funcionan las cosas, mejorar mis habilidades técnicas y aportar en proyectos reales.  
 
